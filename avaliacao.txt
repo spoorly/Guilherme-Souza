@@ -1,26 +1,25 @@
-Nome completo: Guilherme Gomes de Souza 
+Nome completo:
 
 1. Qual a diferença entre Git e GitHub?
-Git é um software de controle de versão, e Github é uma plataforma para compartilhar seus projetos com outros desenvolvedores.
+
 
 2. Associe a descrição com o nome:
 	a) Significa que você alterou o arquivo, mas ainda não fez o commit no seu banco de dados.
 	b) Significa que os dados estão armazenados de forma segura em seu banco de dados local.				
 	c) Significa que você marcou a versão atual de um arquivo modificado para fazer parte do seu próximo commit.
 	
-	(c) staged
-	(b) commited
-	(a) modified
+	() staged
+	() commited
+	() modified
 
 3. O que é ramificação de projeto?
-É um conjunto de branchs dentro de uma base central que poderão evoluir e ser mescladas a sua origem.
+
 
 4. O que é uma branch(ramo)?
-é uma ramificação do projeto, uma linha de desenvolvimento de um programa.
+
 
 5. O que é marcação e quais os seus usos?
-É um mecanismo que marca um ponto do projeto(ex.: v1).
+
 
 6. Qual a diferença entre repositório local e o repositório remoto?
-Repositorio local é um local de armazenamento de computador que mantem dados e software.
-Repositorio remoto é utilizado para compartilhar projetos com outros desevolvedores.
+
