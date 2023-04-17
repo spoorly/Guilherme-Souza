@@ -1,0 +1,25 @@
+Nome completo: 
+
+1. Qual a diferença entre Git e GitHub?
+
+
+2. Associe a descrição com o nome:
+	a) Significa que você alterou o arquivo, mas ainda não fez o commit no seu banco de dados.
+	b) Significa que os dados estão armazenados de forma segura em seu banco de dados local.				
+	c) Significa que você marcou a versão atual de um arquivo modificado para fazer parte do seu próximo commit.
+	
+	() staged
+	() commited
+	() modified
+
+3. O que é ramificação de projeto?
+
+
+4. O que é uma branch(ramo)?
+
+
+5. O que é marcação e quais os seus usos?
+
+
+6. Qual a diferença entre repositório local e o repositório remoto?
+
